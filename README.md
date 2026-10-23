@@ -6,3 +6,10 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp" alt="C#">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" alt="C++">
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aRemmie/aRemmie/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aRemmie/aRemmie/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/aRemmie/aRemmie/output/github-snake.svg" />
+  </picture>
+</p>
